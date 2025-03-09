@@ -15,4 +15,7 @@ I would like to express our heartfelt gratitude to our incredible team members: 
 A special thanks to the University Innovation Hub-SUST for providing us with the platform, guidance, and support to turn our vision into reality. Together, we are excited to contribute to smarter, safer cities with ATOMS! 🏆✨
 
 
-The prototype link https://drive.google.com/drive/folders/1cyxBzNYAxtzNVhEZq7llJZ9b8tXnwEzE?usp=sharing
+The prototype link 
+1. https://drive.google.com/drive/folders/1cyxBzNYAxtzNVhEZq7llJZ9b8tXnwEzE?usp=sharing
+2. https://replit.com/@rajib0drive1/TrafficIntelligence
+3. https://replit.com/@rajibrdas44444/FieldPoliceCommand
